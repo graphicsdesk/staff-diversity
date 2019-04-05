@@ -1,2 +1,6 @@
-# staff-diversity
-Measuring diversity amongst the Columbia Daily Spectator's staff and comparing diversity against other sections and top college newspaper staffs.
+# Staff diversity
+Measuring diversity within the Columbia Daily Spectator and comparing staff diversity against other sections and top college newspapers.
+
+## Notebooks
+
+## Data files

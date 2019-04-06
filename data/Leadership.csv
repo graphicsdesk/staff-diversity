@@ -1,0 +1,1505 @@
+Default Report
+Last Modified: 2019-04-06 14:19:38 MDT
+
+
+Qintro4 - What division of Spec are you in?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What division of Spec are you in?,1.00,17.00,12.33,7.27,52.89,48
+
+#,Answer,%,Count
+17,Journalism,70.83%,34
+1,Business & Innovations,29.17%,14
+,Total,100%,48
+
+Qintro5 - What is your position in Spec?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your position in Spec?,1.00,3.00,2.60,0.60,0.36,48
+
+#,Answer,%,Count
+1,Corporate Board,6.25%,3
+2,Managing Board,27.08%,13
+3,Deputy Board,66.67%,32
+4,Associate,0.00%,0
+5,Trainee,0.00%,0
+,Total,100%,48
+
+Q1 - What college are you enrolled in?
+#,Answer,%,Count
+1,Columbia College,43.18%,19
+2,Barnard,38.64%,17
+3,SEAS,18.18%,8
+4,GS,0.00%,0
+5,Other (please specify any dual/joint degree program),0.00%,0
+,Total,100%,44
+
+Q1_5_TEXT - Other (please specify any dual/joint degree program)
+Other (please specify any dual/joint degree program) - Text
+
+Q2 - What year are you?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What year are you? - Selected Choice,1.00,3.00,2.25,0.61,0.37,44
+
+#,Answer,%,Count
+1,First year (Class of 2022),9.09%,4
+2,Sophomore (Class of 2021),56.82%,25
+3,Junior (Class of 2020),34.09%,15
+4,Senior (Class of 2019),0.00%,0
+5,Other,0.00%,0
+,Total,100%,44
+
+Q2_5_TEXT - Other
+Other - Text
+
+Q3ccgs - What is your first major/program of study?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your first major/program of study?,9.00,55.00,29.76,15.31,234.53,17
+
+#,Answer,%,Count
+1,African-​American Studies,0.00%,0
+2,American Studies,0.00%,0
+3,Ancient Studies,0.00%,0
+4,Anthropology,0.00%,0
+5,Archaeology,0.00%,0
+6,Architecture,0.00%,0
+7,Art History and Archaeology,0.00%,0
+8,Astronomy,0.00%,0
+9,Biological Sciences,17.65%,3
+10,Business,0.00%,0
+11,Chemistry,0.00%,0
+12,Classics,0.00%,0
+13,"Colloquia, Interdepartmental Seminars, and Professional School Offerings",0.00%,0
+14,Comparative Literature and Society,5.88%,1
+15,Computer Science,0.00%,0
+16,Creative Writing,0.00%,0
+17,Dance,0.00%,0
+18,Drama and Theatre Arts,0.00%,0
+19,Earth and Environmental Sciences,0.00%,0
+20,East Asian Languages and Cultures,0.00%,0
+21,"Ecology, Evolution, and Environmental Biology",0.00%,0
+22,Economics,11.76%,2
+23,Education,0.00%,0
+24,English and Comparative Literature,17.65%,3
+25,Ethnicity and Race Studies,0.00%,0
+26,Film and Media Studies,0.00%,0
+27,French and Romance Philology,0.00%,0
+28,Germanic Languages,0.00%,0
+29,History,11.76%,2
+30,History and Philosophy of Science,0.00%,0
+31,Human Rights,0.00%,0
+32,Italian,0.00%,0
+33,Jazz Studies,0.00%,0
+34,Jewish Studies,0.00%,0
+35,Language Resource Center,0.00%,0
+36,Latin American and Caribbean Studies,0.00%,0
+37,Latin American and Iberian Cultures,0.00%,0
+38,Linguistics,0.00%,0
+39,Mathematics,0.00%,0
+40,Medieval and Renaissance Studies,0.00%,0
+41,"Middle Eastern, South Asian, and African Studies",0.00%,0
+42,Music,0.00%,0
+43,Philosophy,5.88%,1
+44,Physical Education and Intercollegiate Athletics,0.00%,0
+45,Physics,0.00%,0
+46,Political Science,11.76%,2
+47,Psychology,5.88%,1
+48,Public Health,0.00%,0
+49,Regional Studies,0.00%,0
+50,Religion,0.00%,0
+51,Slavic Languages,0.00%,0
+52,Sociology,0.00%,0
+53,Statistics,0.00%,0
+54,Sustainable Development,5.88%,1
+55,Urban Studies,5.88%,1
+56,Visual Arts,0.00%,0
+57,Women's and Gender Studies,0.00%,0
+58,Other,0.00%,0
+,Total,100%,17
+
+Q4ccgs - What is your second major/program of study?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your second major/program of study?,7.00,47.00,26.58,12.35,152.58,12
+
+#,Answer,%,Count
+1,African-​American Studies,0.00%,0
+2,American Studies,0.00%,0
+3,Ancient Studies,0.00%,0
+4,Anthropology,0.00%,0
+5,Archaeology,0.00%,0
+6,Architecture,0.00%,0
+7,Art History and Archaeology,8.33%,1
+8,Astronomy,0.00%,0
+9,Biological Sciences,0.00%,0
+10,Business,8.33%,1
+11,Chemistry,0.00%,0
+12,Classics,0.00%,0
+13,"Colloquia, Interdepartmental Seminars, and Professional School Offerings",0.00%,0
+14,Comparative Literature and Society,0.00%,0
+15,Computer Science,0.00%,0
+16,Creative Writing,8.33%,1
+17,Dance,0.00%,0
+18,Drama and Theatre Arts,0.00%,0
+19,Earth and Environmental Sciences,0.00%,0
+20,East Asian Languages and Cultures,0.00%,0
+21,"Ecology, Evolution, and Environmental Biology",0.00%,0
+22,Economics,16.67%,2
+23,Education,0.00%,0
+24,English and Comparative Literature,0.00%,0
+25,Ethnicity and Race Studies,16.67%,2
+26,Film and Media Studies,0.00%,0
+27,French and Romance Philology,0.00%,0
+28,Germanic Languages,0.00%,0
+29,History,16.67%,2
+30,History and Philosophy of Science,0.00%,0
+31,Human Rights,0.00%,0
+32,Italian,0.00%,0
+33,Jazz Studies,0.00%,0
+34,Jewish Studies,0.00%,0
+35,Language Resource Center,0.00%,0
+36,Latin American and Caribbean Studies,0.00%,0
+37,Latin American and Iberian Cultures,0.00%,0
+38,Linguistics,0.00%,0
+39,Mathematics,0.00%,0
+40,Medieval and Renaissance Studies,0.00%,0
+41,"Middle Eastern, South Asian, and African Studies",8.33%,1
+42,Music,0.00%,0
+43,Philosophy,0.00%,0
+44,Physical Education and Intercollegiate Athletics,0.00%,0
+45,Physics,0.00%,0
+46,Political Science,8.33%,1
+47,Psychology,8.33%,1
+48,Public Health,0.00%,0
+49,Regional Studies,0.00%,0
+50,Religion,0.00%,0
+51,Slavic Languages,0.00%,0
+52,Sociology,0.00%,0
+53,Statistics,0.00%,0
+54,Sustainable Development,0.00%,0
+55,Urban Studies,0.00%,0
+56,Visual Arts,0.00%,0
+57,Women's and Gender Studies,0.00%,0
+58,Other,0.00%,0
+,Total,100%,12
+
+Q3seas - What is your first major/program of study?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your first major/program of study?,3.00,8.00,5.63,1.41,1.98,8
+
+#,Answer,%,Count
+1,Applied Math,0.00%,0
+2,Biomedical Engineering,0.00%,0
+3,Chemical Engineering,12.50%,1
+4,Civil Engineering and Engineering Mechanics,12.50%,1
+5,"Computer Engineering ",0.00%,0
+6,Computer Science,62.50%,5
+7,Electrical Engineering,0.00%,0
+8,Mechanical Engineering,12.50%,1
+9,Industrial Engineering and Operations Research,0.00%,0
+10,Other,0.00%,0
+,Total,100%,8
+
+Q4seas - What is your second major/program of study?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your second major/program of study?,1.00,10.00,6.00,3.85,14.80,5
+
+#,Answer,%,Count
+1,Applied Math,20.00%,1
+2,Biomedical Engineering,20.00%,1
+3,Chemical Engineering,0.00%,0
+4,Civil Engineering and Engineering Mechanics,0.00%,0
+5,"Computer Engineering ",0.00%,0
+6,Computer Science,0.00%,0
+7,Electrical Engineering,20.00%,1
+8,Mechanical Engineering,0.00%,0
+9,Industrial Engineering and Operations Research,0.00%,0
+10,Other,40.00%,2
+,Total,100%,5
+
+Q3barnard - What is your first major/program of study?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your first major/program of study?,4.00,69.00,39.65,19.08,364.11,17
+
+#,Answer,%,Count
+1,Africana Studies,0.00%,0
+2,American Studies,0.00%,0
+3,Ancient Studies,0.00%,0
+4,Anthropology,5.88%,1
+5,Applied Mathematics,5.88%,1
+6,Architecture/History & Theory of Architecture,0.00%,0
+7,Art History,0.00%,0
+8,Art History with a Visual Arts Concentration,0.00%,0
+9,Asian & Middle Eastern Cultures,0.00%,0
+10,Astronomy,0.00%,0
+11,Athena Leadership Studies,0.00%,0
+12,Biochemistry,0.00%,0
+13,Biology,0.00%,0
+14,Chemistry,0.00%,0
+15,Classics,0.00%,0
+16,Comparative Literature,0.00%,0
+17,Computer Science,0.00%,0
+18,Dance,0.00%,0
+19,Economics (Economics Track),0.00%,0
+20,Economics (Political Economy Track),5.88%,1
+21,Economics & Mathematics,0.00%,0
+22,Economic & Social History,5.88%,1
+23,Education,0.00%,0
+24,English,5.88%,1
+25,English with Concentration in American Literature,0.00%,0
+26,English with Concentration in Creative Writing,5.88%,1
+27,English with Concentration in Film,0.00%,0
+28,English with Concentration in Theater,0.00%,0
+29,Environmental Biology,0.00%,0
+30,Environment and Sustainability,0.00%,0
+31,Environmental Science,0.00%,0
+32,European Studies,0.00%,0
+33,Film Studies,0.00%,0
+34,French,0.00%,0
+35,French Language & Literature,0.00%,0
+36,French Translation & Literature,0.00%,0
+37,French & Francophone Studies,0.00%,0
+38,German,0.00%,0
+39,German Literature,0.00%,0
+40,German Studies,0.00%,0
+41,History,17.65%,3
+42,Human Rights,0.00%,0
+43,Italian,0.00%,0
+44,Jewish Studies,0.00%,0
+45,Mathematics,5.88%,1
+46,Mathematics-Computer Science,0.00%,0
+47,Mathematics-Statistics,0.00%,0
+48,Medieval & Renaissance Studies,0.00%,0
+49,Modern Greek,0.00%,0
+50,Music,0.00%,0
+51,Neuroscience & Behavior,0.00%,0
+52,Philosophy,5.88%,1
+53,Physics,0.00%,0
+54,Political Science,11.76%,2
+55,Psychology,5.88%,1
+56,Race & Ethnicity (MORE),0.00%,0
+57,Religion,5.88%,1
+58,Russian,0.00%,0
+59,Russian Language & Literature,0.00%,0
+60,Russian Regional Studies,0.00%,0
+61,Science & Public Policy,0.00%,0
+62,Slavic & East European Literature & Culture,0.00%,0
+63,Slavic & East European Regional Studies,0.00%,0
+64,Sociology,5.88%,1
+65,Spanish & Latin American Cultures,0.00%,0
+66,Statistics,0.00%,0
+67,Theatre,0.00%,0
+68,Translation Studies (in Comparative Literature),0.00%,0
+69,Urban Studies,5.88%,1
+70,"Women's, Gender & Sexuality Studies",0.00%,0
+71,Other,0.00%,0
+,Total,100%,17
+
+Q4barnard - What is your second major/program of study?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is your second major/program of study?,7.00,64.00,36.63,20.64,425.98,8
+
+#,Answer,%,Count
+1,Africana Studies,0.00%,0
+2,American Studies,0.00%,0
+3,Ancient Studies,0.00%,0
+4,Anthropology,0.00%,0
+5,Applied Mathematics,0.00%,0
+6,Architecture/History & Theory of Architecture,0.00%,0
+7,Art History,25.00%,2
+8,Art History with a Visual Arts Concentration,0.00%,0
+9,Asian & Middle Eastern Cultures,0.00%,0
+10,Astronomy,0.00%,0
+11,Athena Leadership Studies,0.00%,0
+12,Biochemistry,0.00%,0
+13,Biology,0.00%,0
+14,Chemistry,0.00%,0
+15,Classics,0.00%,0
+16,Comparative Literature,0.00%,0
+17,Computer Science,0.00%,0
+18,Dance,0.00%,0
+19,Economics (Economics Track),0.00%,0
+20,Economics (Political Economy Track),0.00%,0
+21,Economics & Mathematics,0.00%,0
+22,Economic & Social History,0.00%,0
+23,Education,12.50%,1
+24,English,0.00%,0
+25,English with Concentration in American Literature,0.00%,0
+26,English with Concentration in Creative Writing,0.00%,0
+27,English with Concentration in Film,0.00%,0
+28,English with Concentration in Theater,0.00%,0
+29,Environmental Biology,0.00%,0
+30,Environment and Sustainability,0.00%,0
+31,Environmental Science,0.00%,0
+32,European Studies,0.00%,0
+33,Film Studies,0.00%,0
+34,French,0.00%,0
+35,French Language & Literature,0.00%,0
+36,French Translation & Literature,0.00%,0
+37,French & Francophone Studies,0.00%,0
+38,German,0.00%,0
+39,German Literature,0.00%,0
+40,German Studies,12.50%,1
+41,History,0.00%,0
+42,Human Rights,12.50%,1
+43,Italian,0.00%,0
+44,Jewish Studies,0.00%,0
+45,Mathematics,0.00%,0
+46,Mathematics-Computer Science,0.00%,0
+47,Mathematics-Statistics,0.00%,0
+48,Medieval & Renaissance Studies,0.00%,0
+49,Modern Greek,0.00%,0
+50,Music,0.00%,0
+51,Neuroscience & Behavior,0.00%,0
+52,Philosophy,0.00%,0
+53,Physics,0.00%,0
+54,Political Science,12.50%,1
+55,Psychology,0.00%,0
+56,Race & Ethnicity (MORE),12.50%,1
+57,Religion,0.00%,0
+58,Russian,0.00%,0
+59,Russian Language & Literature,0.00%,0
+60,Russian Regional Studies,0.00%,0
+61,Science & Public Policy,0.00%,0
+62,Slavic & East European Literature & Culture,0.00%,0
+63,Slavic & East European Regional Studies,0.00%,0
+64,Sociology,12.50%,1
+65,Spanish & Latin American Cultures,0.00%,0
+66,Statistics,0.00%,0
+67,Theatre,0.00%,0
+68,Translation Studies (in Comparative Literature),0.00%,0
+69,Urban Studies,0.00%,0
+70,"Women's, Gender & Sexuality Studies",0.00%,0
+71,Other,0.00%,0
+,Total,100%,8
+
+Q5 - Are you on any pre-professional academic track?
+#,Answer,%,Count
+1,Pre-health,4.65%,2
+2,Pre-law,16.28%,7
+3,Undecided,20.93%,9
+6,No,53.49%,23
+4,Prefer not to say,2.33%,1
+5,Other,2.33%,1
+,Total,100%,43
+
+Q5_5_TEXT - Other
+Other - Text
+
+Q6 - Do you intend to go to graduate school?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you intend to go to graduate school?,1.00,3.00,2.14,0.94,0.88,42
+
+#,Answer,%,Count
+1,Yes,38.10%,16
+2,"No ",9.52%,4
+3,Undecided,52.38%,22
+4,Prefer not to say,0.00%,0
+,Total,100%,42
+
+Unable to export widget. Please contact Qualtrics Support.
+
+Q7 - Are you a student athlete?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Are you a student athlete?,1.00,2.00,1.98,0.15,0.02,42
+
+#,Answer,%,Count
+1,"Yes ",2.38%,1
+2,"No ",97.62%,41
+3,Prefer not to say,0.00%,0
+,Total,100%,42
+
+"Q8 - Do you participate in any other clubs, activities, or organizations other than Spec?"
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"Do you participate in any other clubs, activities, or organizations other than Spec? - Selected Choice",1.00,4.00,1.37,0.75,0.56,43
+
+#,Answer,%,Count
+1,Yes,74.42%,32
+2,No,18.60%,8
+3,Prefer not to say,2.33%,1
+4,Other,4.65%,2
+,Total,100%,43
+
+Q8_4_TEXT - Other
+Other - Text
+Charles Drew
+I used to be in Orchesis but am not any longer.
+
+Q9 - What clubs/activities are you involved in? (check all that apply)
+#,Answer,%,Count
+1,A Cappella,0.00%,0
+2,Academic,8.70%,6
+3,Academic Competition,0.00%,0
+4,Club and Intramural Sport,4.35%,3
+5,"Cultural ",7.25%,5
+6,Dance,4.35%,3
+7,Environmental,0.00%,0
+8,Film and Visual Arts,7.25%,5
+9,Gender and Sexuality,1.45%,1
+10,Greek Life,5.80%,4
+11,Media and Publications,13.04%,9
+12,Music,4.35%,3
+13,Political/Activist,8.70%,6
+14,"Pre-Professional ",5.80%,4
+15,Religious/Spiritual,1.45%,1
+16,"Service ",2.90%,2
+17,Special Interest,2.90%,2
+18,Student Enterprises,1.45%,1
+19,"Student Government ",2.90%,2
+20,"Student Initiative ",5.80%,4
+21,"Theater ",5.80%,4
+22,Varsity Sports,1.45%,1
+23,Other,4.35%,3
+,Total,100%,69
+
+Q9_23_TEXT - Other
+Other - Text
+MRC/ Alma Ambassador
+Alumni-related
+"Barnard admissions "
+
+Q10 - Are you on the executive board of any other student organizations/clubs at Columbia? (Please list the names of these organizations).
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Are you on the executive board of any other student organizations/clubs at Columbia? (Please list the names of these organizations). - Selected Choice,1.00,2.00,1.60,0.49,0.24,42
+
+#,Answer,%,Count
+1,Yes,40.48%,17
+2,No,59.52%,25
+3,Other,0.00%,0
+,Total,100%,42
+
+Q10_1_TEXT - Yes
+Yes - Text
+Her Campus Columbia Barnard
+"DKA "
+CCSA
+"SGA (co-chair of a committee), and going to be on the E-board of Black Theatre Ensemble"
+JADE
+Women of Color Pre-Law Society
+"Biomedical Engineering Society, Schapiro Hall Council"
+AAA
+"Bacchanal "
+JADE
+Columbia Political Union
+American Society of Civil Engineers
+One for the World
+Christian Union
+"Cu Photo Society, Pink Freud: Psychology Journal of Barnard College"
+
+Q10_3_TEXT - Other
+Other - Text
+
+Q11 - What race/ethnicity do you identify as? (check all that apply)
+#,Answer,%,Count
+1,American Indian or Alaska Native,2.04%,1
+3,Black or African-American,10.20%,5
+10,East Asian,20.41%,10
+13,South Asian,12.24%,6
+4,Hispanic or Latinx,16.33%,8
+12,Native Hawaiian or Other Pacific Islander,0.00%,0
+6,White,36.73%,18
+7,Prefer not to say,2.04%,1
+8,Other,0.00%,0
+,Total,100%,49
+
+Q11_8_TEXT - Other
+Other - Text
+
+Q12 - What gender do you identify as?
+Data source misconfigured for this visualization
+
+#,Answer,%,Count
+1,Woman,73.81%,31
+2,Man,26.19%,11
+3,Genderfluid,0.00%,0
+4,Nonbinary,0.00%,0
+5,Prefer not to say,0.00%,0
+6,Other,0.00%,0
+,Total,100%,42
+
+Q12_6_TEXT - Other
+Other - Text
+
+Q35 - Do you identify as trans?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you identify as trans?,2.00,2.00,2.00,0.00,0.00,41
+
+#,Answer,%,Count
+1,Yes,0.00%,0
+2,No,100.00%,41
+3,Prefer not to say,0.00%,0
+,Total,100%,41
+
+Q13 - What is your sexual orientation?
+#,Answer,%,Count
+1,"Straight (heterosexual) ",60.87%,28
+2,Gay/Lesbian,8.70%,4
+4,Bisexual,10.87%,5
+5,Asexual,0.00%,0
+6,Pansexual,4.35%,2
+7,"Queer ",6.52%,3
+8,Questioning or Unsure,4.35%,2
+9,Prefer not to say,4.35%,2
+10,Other,0.00%,0
+,Total,100%,46
+
+Q13_10_TEXT - Other
+Other - Text
+
+Q14 - What country are you from?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What country are you from?,28.00,220.00,195.62,53.72,2885.90,42
+
+#,Answer,%,Count
+215,United States,85.71%,36
+1,"Afghanistan ",0.00%,0
+2,"Albania ",0.00%,0
+3,"Algeria ",0.00%,0
+4,"American Samoa ",0.00%,0
+5,"Andorra ",0.00%,0
+6,"Angola ",0.00%,0
+7,"Anguilla ",0.00%,0
+8,"Antigua & Barbuda ",0.00%,0
+9,"Argentina ",0.00%,0
+10,"Armenia ",0.00%,0
+11,"Aruba ",0.00%,0
+12,"Australia ",0.00%,0
+13,"Austria ",0.00%,0
+14,"Azerbaijan ",0.00%,0
+15,"Bahamas, The ",0.00%,0
+16,"Bahrain ",0.00%,0
+17,"Bangladesh ",0.00%,0
+18,"Barbados ",0.00%,0
+19,"Belarus ",0.00%,0
+20,"Belgium ",0.00%,0
+21,"Belize ",0.00%,0
+22,"Benin ",0.00%,0
+23,"Bermuda ",0.00%,0
+24,"Bhutan ",0.00%,0
+25,"Bolivia ",0.00%,0
+26,"Bosnia & Herzegovina ",0.00%,0
+27,"Botswana ",0.00%,0
+28,"Brazil ",2.38%,1
+29,"British Virgin Is. ",0.00%,0
+30,"Brunei ",0.00%,0
+31,"Bulgaria ",0.00%,0
+32,"Burkina Faso ",0.00%,0
+33,"Burma ",0.00%,0
+34,"Burundi ",0.00%,0
+35,"Cambodia ",0.00%,0
+36,"Cameroon ",0.00%,0
+37,"Canada ",0.00%,0
+38,"Cape Verde ",0.00%,0
+39,"Cayman Islands ",0.00%,0
+40,"Central African Rep. ",0.00%,0
+41,"Chad ",0.00%,0
+42,"Chile ",0.00%,0
+43,"China ",2.38%,1
+44,"Colombia ",4.76%,2
+45,"Comoros ",0.00%,0
+46,"Congo, Dem. Rep. ",0.00%,0
+47,"Congo, Repub. of the ",0.00%,0
+48,"Cook Islands ",0.00%,0
+49,"Costa Rica ",0.00%,0
+50,"Cote d'Ivoire ",0.00%,0
+51,"Croatia ",0.00%,0
+52,"Cuba ",0.00%,0
+53,"Cyprus ",0.00%,0
+54,"Czech Republic ",0.00%,0
+55,"Denmark ",0.00%,0
+56,"Djibouti ",0.00%,0
+57,"Dominica ",0.00%,0
+58,"Dominican Republic ",0.00%,0
+59,"East Timor ",0.00%,0
+60,"Ecuador ",0.00%,0
+61,"Egypt ",0.00%,0
+62,"El Salvador ",0.00%,0
+63,"Equatorial Guinea ",0.00%,0
+64,"Eritrea ",0.00%,0
+65,"Estonia ",0.00%,0
+66,"Ethiopia ",0.00%,0
+67,"Faroe Islands ",0.00%,0
+68,"Fiji ",0.00%,0
+69,"Finland ",0.00%,0
+70,"France ",0.00%,0
+71,"French Guiana ",0.00%,0
+72,"French Polynesia ",0.00%,0
+73,"Gabon ",0.00%,0
+74,"Gambia, The ",0.00%,0
+75,"Gaza Strip ",0.00%,0
+76,"Georgia ",0.00%,0
+77,"Germany ",0.00%,0
+78,"Ghana ",0.00%,0
+79,"Gibraltar ",0.00%,0
+80,"Greece ",0.00%,0
+81,"Greenland ",0.00%,0
+82,"Grenada ",0.00%,0
+83,"Guadeloupe ",0.00%,0
+84,"Guam ",0.00%,0
+85,"Guatemala ",0.00%,0
+86,"Guernsey ",0.00%,0
+87,"Guinea ",0.00%,0
+88,"Guinea-Bissau ",0.00%,0
+89,"Guyana ",0.00%,0
+90,"Haiti ",0.00%,0
+91,"Honduras ",0.00%,0
+92,"Hong Kong ",0.00%,0
+93,"Hungary ",0.00%,0
+94,"Iceland ",0.00%,0
+95,"India ",0.00%,0
+96,"Indonesia ",0.00%,0
+97,"Iran ",2.38%,1
+98,"Iraq ",0.00%,0
+99,"Ireland ",0.00%,0
+100,"Isle of Man ",0.00%,0
+101,"Israel ",0.00%,0
+102,"Italy ",0.00%,0
+103,"Jamaica ",0.00%,0
+104,"Japan ",0.00%,0
+105,"Jersey ",0.00%,0
+106,"Jordan ",0.00%,0
+107,"Kazakhstan ",0.00%,0
+108,"Kenya ",0.00%,0
+109,"Kiribati ",0.00%,0
+110,"Korea, North ",0.00%,0
+111,"Korea, South ",0.00%,0
+112,"Kuwait ",0.00%,0
+113,"Kyrgyzstan ",0.00%,0
+114,"Laos ",0.00%,0
+115,"Latvia ",0.00%,0
+116,"Lebanon ",0.00%,0
+117,"Lesotho ",0.00%,0
+118,"Liberia ",0.00%,0
+119,"Libya ",0.00%,0
+120,"Liechtenstein ",0.00%,0
+121,"Lithuania ",0.00%,0
+122,"Luxembourg ",0.00%,0
+123,"Macau ",0.00%,0
+124,"Macedonia ",0.00%,0
+125,"Madagascar ",0.00%,0
+126,"Malawi ",0.00%,0
+127,"Malaysia ",0.00%,0
+128,"Maldives ",0.00%,0
+129,"Mali ",0.00%,0
+130,"Malta ",0.00%,0
+131,"Marshall Islands ",0.00%,0
+132,"Martinique ",0.00%,0
+133,"Mauritania ",0.00%,0
+134,"Mauritius ",0.00%,0
+135,"Mayotte ",0.00%,0
+136,"Mexico ",0.00%,0
+137,"Micronesia, Fed. St. ",0.00%,0
+138,"Moldova ",0.00%,0
+139,"Monaco ",0.00%,0
+140,"Mongolia ",0.00%,0
+141,"Montserrat ",0.00%,0
+142,"Morocco ",0.00%,0
+143,"Mozambique ",0.00%,0
+144,"Namibia ",0.00%,0
+145,"Nauru ",0.00%,0
+146,"Nepal ",0.00%,0
+147,"Netherlands ",0.00%,0
+148,"Netherlands Antilles ",0.00%,0
+149,"New Caledonia ",0.00%,0
+150,"New Zealand ",0.00%,0
+151,"Nicaragua ",0.00%,0
+152,"Niger ",0.00%,0
+153,"Nigeria ",0.00%,0
+154,"N. Mariana Islands ",0.00%,0
+155,"Norway ",0.00%,0
+156,"Oman ",0.00%,0
+157,"Pakistan ",0.00%,0
+158,"Palau ",0.00%,0
+159,"Panama ",0.00%,0
+160,"Papua New Guinea ",0.00%,0
+161,"Paraguay ",0.00%,0
+162,"Peru ",0.00%,0
+163,"Philippines ",0.00%,0
+164,"Poland ",0.00%,0
+165,"Portugal ",0.00%,0
+166,"Puerto Rico ",0.00%,0
+167,"Qatar ",0.00%,0
+168,"Reunion ",0.00%,0
+169,"Romania ",0.00%,0
+170,"Russia ",0.00%,0
+171,"Rwanda ",0.00%,0
+172,"Saint Helena ",0.00%,0
+173,"Saint Kitts & Nevis ",0.00%,0
+174,"Saint Lucia ",0.00%,0
+175,"St Pierre & Miquelon ",0.00%,0
+176,"Saint Vincent and the Grenadines ",0.00%,0
+177,"Samoa ",0.00%,0
+178,"San Marino ",0.00%,0
+179,"Sao Tome & Principe ",0.00%,0
+180,"Saudi Arabia ",0.00%,0
+181,"Senegal ",0.00%,0
+182,"Serbia ",0.00%,0
+183,"Seychelles ",0.00%,0
+184,"Sierra Leone ",0.00%,0
+185,"Singapore ",0.00%,0
+186,"Slovakia ",0.00%,0
+187,"Slovenia ",0.00%,0
+188,"Solomon Islands ",0.00%,0
+189,"Somalia ",0.00%,0
+190,"South Africa ",0.00%,0
+191,"Spain ",0.00%,0
+192,"Sri Lanka ",0.00%,0
+193,"Sudan ",0.00%,0
+194,"Suriname ",0.00%,0
+195,"Swaziland ",0.00%,0
+196,"Sweden ",0.00%,0
+197,"Switzerland ",0.00%,0
+198,"Syria ",0.00%,0
+199,"Taiwan ",0.00%,0
+200,"Tajikistan ",0.00%,0
+201,"Tanzania ",0.00%,0
+202,"Thailand ",0.00%,0
+203,"Togo ",0.00%,0
+204,"Tonga ",0.00%,0
+205,"Trinidad & Tobago ",0.00%,0
+206,"Tunisia ",0.00%,0
+207,"Turkey ",0.00%,0
+208,"Turkmenistan ",0.00%,0
+209,"Turks & Caicos Is ",0.00%,0
+210,"Tuvalu ",0.00%,0
+211,"Uganda ",0.00%,0
+212,"Ukraine ",0.00%,0
+213,"United Arab Emirates ",0.00%,0
+214,"United Kingdom ",0.00%,0
+216,"Uruguay ",0.00%,0
+217,"Uzbekistan ",0.00%,0
+218,"Vanuatu ",0.00%,0
+219,"Venezuela ",0.00%,0
+220,"Vietnam ",2.38%,1
+221,"Virgin Islands ",0.00%,0
+222,"Wallis and Futuna ",0.00%,0
+223,"West Bank ",0.00%,0
+224,"Western Sahara ",0.00%,0
+225,"Yemen ",0.00%,0
+226,"Zambia ",0.00%,0
+227,Zimbabwe,0.00%,0
+,Total,100%,42
+
+Q15 - What state or US territory are you from?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What state or US territory are you from?,5.00,56.00,27.00,16.98,288.34,35
+
+#,Answer,%,Count
+1,Alabama,0.00%,0
+2,Alaska,0.00%,0
+3,American Samoa,0.00%,0
+4,Arkansas,0.00%,0
+5,California,22.86%,8
+6,Colorado,2.86%,1
+7,Connecticut,2.86%,1
+8,Delaware,0.00%,0
+9,District of Columbia (DC),2.86%,1
+10,Florida,2.86%,1
+11,Georgia,2.86%,1
+12,Guam,0.00%,0
+13,Hawaii,0.00%,0
+14,Idaho,0.00%,0
+15,Illinois,0.00%,0
+16,Indiana,0.00%,0
+17,Iowa,0.00%,0
+18,Kansas,0.00%,0
+19,Kentucky,0.00%,0
+20,Louisiana,0.00%,0
+21,Maine,0.00%,0
+22,Maryland,0.00%,0
+23,Massachusetts,0.00%,0
+24,Michigan,0.00%,0
+25,Minnesota,0.00%,0
+26,Mississippi,0.00%,0
+27,Missouri,2.86%,1
+28,Montana,0.00%,0
+29,Nebraska,0.00%,0
+30,Nevada,0.00%,0
+31,New Hampshire,0.00%,0
+32,New Jersey,11.43%,4
+33,New Mexico,0.00%,0
+34,New York,17.14%,6
+35,North Carolina,0.00%,0
+36,North Dakota,0.00%,0
+37,Northern Marianas Islands,0.00%,0
+38,Ohio,2.86%,1
+39,Oklahoma,0.00%,0
+40,Oregon,0.00%,0
+41,Pennsylvania,8.57%,3
+42,Puerto Rico,0.00%,0
+43,Rhode Island,0.00%,0
+44,South Carolina,0.00%,0
+45,South Dakota,0.00%,0
+46,Tennessee,0.00%,0
+47,Texas,8.57%,3
+48,Utah,5.71%,2
+49,Vermont,2.86%,1
+50,Virginia,0.00%,0
+51,Virgin Islands,0.00%,0
+52,Washington,0.00%,0
+53,West Virginia,0.00%,0
+54,Wisconsin,0.00%,0
+55,Wyoming,0.00%,0
+56,Other,2.86%,1
+,Total,100%,35
+
+Q16 - How many languages do you speak fluently?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,How many languages do you speak fluently? - Selected Choice,1.00,3.00,1.55,0.73,0.53,42
+
+#,Answer,%,Count
+1,1,59.52%,25
+2,2,26.19%,11
+3,3,14.29%,6
+5,More than 3,0.00%,0
+6,Other,0.00%,0
+,Total,100%,42
+
+Q16_6_TEXT - Other
+Other - Text
+
+Q17 - What is the first language that you learned to speak fluently?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is the first language that you learned to speak fluently?,16.00,156.00,59.10,39.13,1531.21,41
+
+#,Answer,%,Count
+1,Acholi,0.00%,0
+2,Afrikaans,0.00%,0
+3,Akan,0.00%,0
+4,Albanian,0.00%,0
+5,Amharic,0.00%,0
+6,Arabic,0.00%,0
+7,Ashante,0.00%,0
+8,Asl,0.00%,0
+9,Assyrian,0.00%,0
+10,Azerbaijani,0.00%,0
+11,Azeri,0.00%,0
+12,Bajuni,0.00%,0
+13,Basque,0.00%,0
+14,Behdini,0.00%,0
+15,Belorussian,0.00%,0
+16,Bengali,2.44%,1
+17,Berber,0.00%,0
+18,Bosnian,2.44%,1
+19,Bravanese,0.00%,0
+20,Bulgarian,0.00%,0
+21,Burmese,0.00%,0
+22,Cakchiquel,0.00%,0
+23,Cambodian,0.00%,0
+24,Cantonese,0.00%,0
+25,Catalan,0.00%,0
+26,Chaldean,0.00%,0
+27,Chamorro,0.00%,0
+28,Chao-chow,0.00%,0
+29,Chavacano,0.00%,0
+30,Chin,0.00%,0
+31,Chuukese,0.00%,0
+32,Cree,0.00%,0
+33,Croatian,0.00%,0
+34,Czech,0.00%,0
+35,Dakota,0.00%,0
+36,Danish,0.00%,0
+37,Dari,0.00%,0
+38,Dinka,0.00%,0
+39,Diula,0.00%,0
+40,Dutch,0.00%,0
+41,Edo,0.00%,0
+42,English,75.61%,31
+43,Estonian,0.00%,0
+44,Ewe,0.00%,0
+45,Fante,0.00%,0
+46,Farsi,0.00%,0
+47,Fijian Hindi,0.00%,0
+48,Finnish,0.00%,0
+49,Flemish,0.00%,0
+50,French,0.00%,0
+51,French Canadian,0.00%,0
+52,Fukienese,0.00%,0
+53,Fula,0.00%,0
+54,Fulani,0.00%,0
+55,Fuzhou,0.00%,0
+56,Ga,0.00%,0
+57,Gaddang,0.00%,0
+58,Gaelic,0.00%,0
+59,Gaelic-irish,0.00%,0
+60,Gaelic-scottish,0.00%,0
+61,Georgian,0.00%,0
+62,German,0.00%,0
+63,Gorani,0.00%,0
+64,Greek,0.00%,0
+65,Gujarati,0.00%,0
+66,Haitian Creole,0.00%,0
+67,Hakka,0.00%,0
+68,Hakka-chinese,0.00%,0
+69,Hausa,0.00%,0
+70,Hebrew,0.00%,0
+71,Hindi,0.00%,0
+72,Hmong,0.00%,0
+73,Hungarian,0.00%,0
+74,Ibanag,0.00%,0
+75,Ibo,0.00%,0
+76,Icelandic,0.00%,0
+77,Igbo,0.00%,0
+78,Ilocano,0.00%,0
+79,Indonesian,0.00%,0
+80,Inuktitut,0.00%,0
+81,Italian,0.00%,0
+82,Jakartanese,0.00%,0
+83,Japanese,0.00%,0
+84,Javanese,0.00%,0
+85,Kanjobal,0.00%,0
+86,Karen,0.00%,0
+87,Karenni,0.00%,0
+88,Kashmiri,0.00%,0
+89,Kazakh,0.00%,0
+90,Kikuyu,0.00%,0
+91,Kinyarwanda,0.00%,0
+92,Kirundi,0.00%,0
+93,Korean,0.00%,0
+94,Kosovan,0.00%,0
+95,Kotokoli,0.00%,0
+96,Krio,0.00%,0
+97,Kurdish,0.00%,0
+98,Kurmanji,0.00%,0
+99,Kyrgyz,0.00%,0
+100,Lakota,0.00%,0
+101,Laotian,0.00%,0
+102,Latvian,0.00%,0
+103,Lingala,0.00%,0
+104,Lithuanian,0.00%,0
+105,Luganda,0.00%,0
+106,Luo,0.00%,0
+107,Maay,0.00%,0
+108,Macedonian,0.00%,0
+109,Malay,0.00%,0
+110,Malayalam,0.00%,0
+111,Maltese,0.00%,0
+112,Mandarin,7.32%,3
+113,Mandingo,0.00%,0
+114,Mandinka,0.00%,0
+115,Marathi,0.00%,0
+116,Marshallese,0.00%,0
+117,Mien,0.00%,0
+118,Mina,0.00%,0
+119,Mirpuri,0.00%,0
+120,Mixteco,0.00%,0
+121,Moldavan,0.00%,0
+122,Mongolian,0.00%,0
+123,Montenegrin,0.00%,0
+124,Navajo,0.00%,0
+125,Neapolitan,0.00%,0
+126,Nepali,0.00%,0
+127,Nigerian Pidgin,0.00%,0
+128,Norwegian,0.00%,0
+129,Oromo,0.00%,0
+130,Pahari,0.00%,0
+131,Papago,0.00%,0
+132,Papiamento,0.00%,0
+133,Pashto,0.00%,0
+134,Patois,0.00%,0
+135,Pidgin English,0.00%,0
+136,Polish,0.00%,0
+137,Portug.creole,0.00%,0
+138,Portuguese,2.44%,1
+139,Pothwari,0.00%,0
+140,Pulaar,0.00%,0
+141,Punjabi,0.00%,0
+142,Putian,0.00%,0
+143,Quichua,0.00%,0
+144,Romanian,0.00%,0
+145,Russian,2.44%,1
+146,Samoan,0.00%,0
+147,Serbian,0.00%,0
+148,Shanghainese,0.00%,0
+149,Shona,0.00%,0
+150,Sichuan,0.00%,0
+151,Sicilian,0.00%,0
+152,Sinhalese,0.00%,0
+153,Slovak,0.00%,0
+154,Somali,0.00%,0
+155,Sorani,0.00%,0
+156,Spanish,7.32%,3
+157,Sudanese Arabic,0.00%,0
+158,Sundanese,0.00%,0
+159,Susu,0.00%,0
+160,Swahili,0.00%,0
+161,Swedish,0.00%,0
+162,Sylhetti,0.00%,0
+163,Tagalog,0.00%,0
+164,Taiwanese,0.00%,0
+165,Tajik,0.00%,0
+166,Tamil,0.00%,0
+167,Telugu,0.00%,0
+168,Thai,0.00%,0
+169,Tibetan,0.00%,0
+170,Tigre,0.00%,0
+171,Tigrinya,0.00%,0
+172,Toishanese,0.00%,0
+173,Tongan,0.00%,0
+174,Toucouleur,0.00%,0
+175,Trique,0.00%,0
+176,Tshiluba,0.00%,0
+177,Turkish,0.00%,0
+178,Twi,0.00%,0
+179,Ukrainian,0.00%,0
+180,Urdu,0.00%,0
+181,Uyghur,0.00%,0
+182,Uzbek,0.00%,0
+183,Vietnamese,0.00%,0
+184,Visayan,0.00%,0
+185,Welsh,0.00%,0
+186,Wolof,0.00%,0
+187,Yiddish,0.00%,0
+188,Yoruba,0.00%,0
+189,Yupik,0.00%,0
+,Total,100%,41
+
+Q18 - What is the second language that you learned to speak fluently?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is the second language that you learned to speak fluently?,42.00,183.00,83.53,54.17,2934.72,17
+
+#,Answer,%,Count
+1,Acholi,0.00%,0
+2,Afrikaans,0.00%,0
+3,Akan,0.00%,0
+4,Albanian,0.00%,0
+5,Amharic,0.00%,0
+6,Arabic,0.00%,0
+7,Ashante,0.00%,0
+8,Asl,0.00%,0
+9,Assyrian,0.00%,0
+10,Azerbaijani,0.00%,0
+11,Azeri,0.00%,0
+12,Bajuni,0.00%,0
+13,Basque,0.00%,0
+14,Behdini,0.00%,0
+15,Belorussian,0.00%,0
+16,Bengali,0.00%,0
+17,Berber,0.00%,0
+18,Bosnian,0.00%,0
+19,Bravanese,0.00%,0
+20,Bulgarian,0.00%,0
+21,Burmese,0.00%,0
+22,Cakchiquel,0.00%,0
+23,Cambodian,0.00%,0
+24,Cantonese,0.00%,0
+25,Catalan,0.00%,0
+26,Chaldean,0.00%,0
+27,Chamorro,0.00%,0
+28,Chao-chow,0.00%,0
+29,Chavacano,0.00%,0
+30,Chin,0.00%,0
+31,Chuukese,0.00%,0
+32,Cree,0.00%,0
+33,Croatian,0.00%,0
+34,Czech,0.00%,0
+35,Dakota,0.00%,0
+36,Danish,0.00%,0
+37,Dari,0.00%,0
+38,Dinka,0.00%,0
+39,Diula,0.00%,0
+40,Dutch,0.00%,0
+41,Edo,0.00%,0
+42,English,52.94%,9
+43,Estonian,0.00%,0
+44,Ewe,0.00%,0
+45,Fante,0.00%,0
+46,Farsi,5.88%,1
+47,Fijian Hindi,0.00%,0
+48,Finnish,0.00%,0
+49,Flemish,0.00%,0
+50,French,0.00%,0
+51,French Canadian,0.00%,0
+52,Fukienese,0.00%,0
+53,Fula,0.00%,0
+54,Fulani,0.00%,0
+55,Fuzhou,0.00%,0
+56,Ga,0.00%,0
+57,Gaddang,0.00%,0
+58,Gaelic,0.00%,0
+59,Gaelic-irish,0.00%,0
+60,Gaelic-scottish,0.00%,0
+61,Georgian,0.00%,0
+62,German,0.00%,0
+63,Gorani,0.00%,0
+64,Greek,0.00%,0
+65,Gujarati,0.00%,0
+66,Haitian Creole,0.00%,0
+67,Hakka,0.00%,0
+68,Hakka-chinese,0.00%,0
+69,Hausa,0.00%,0
+70,Hebrew,5.88%,1
+71,Hindi,0.00%,0
+72,Hmong,0.00%,0
+73,Hungarian,0.00%,0
+74,Ibanag,0.00%,0
+75,Ibo,0.00%,0
+76,Icelandic,0.00%,0
+77,Igbo,0.00%,0
+78,Ilocano,0.00%,0
+79,Indonesian,0.00%,0
+80,Inuktitut,0.00%,0
+81,Italian,0.00%,0
+82,Jakartanese,0.00%,0
+83,Japanese,0.00%,0
+84,Javanese,0.00%,0
+85,Kanjobal,0.00%,0
+86,Karen,0.00%,0
+87,Karenni,0.00%,0
+88,Kashmiri,0.00%,0
+89,Kazakh,0.00%,0
+90,Kikuyu,0.00%,0
+91,Kinyarwanda,0.00%,0
+92,Kirundi,0.00%,0
+93,Korean,0.00%,0
+94,Kosovan,0.00%,0
+95,Kotokoli,0.00%,0
+96,Krio,0.00%,0
+97,Kurdish,0.00%,0
+98,Kurmanji,0.00%,0
+99,Kyrgyz,0.00%,0
+100,Lakota,0.00%,0
+101,Laotian,0.00%,0
+102,Latvian,0.00%,0
+103,Lingala,0.00%,0
+104,Lithuanian,0.00%,0
+105,Luganda,0.00%,0
+106,Luo,0.00%,0
+107,Maay,0.00%,0
+108,Macedonian,0.00%,0
+109,Malay,0.00%,0
+110,Malayalam,0.00%,0
+111,Maltese,0.00%,0
+112,Mandarin,5.88%,1
+113,Mandingo,0.00%,0
+114,Mandinka,0.00%,0
+115,Marathi,0.00%,0
+116,Marshallese,0.00%,0
+117,Mien,0.00%,0
+118,Mina,0.00%,0
+119,Mirpuri,0.00%,0
+120,Mixteco,0.00%,0
+121,Moldavan,0.00%,0
+122,Mongolian,0.00%,0
+123,Montenegrin,0.00%,0
+124,Navajo,0.00%,0
+125,Neapolitan,0.00%,0
+126,Nepali,0.00%,0
+127,Nigerian Pidgin,0.00%,0
+128,Norwegian,0.00%,0
+129,Oromo,0.00%,0
+130,Pahari,0.00%,0
+131,Papago,0.00%,0
+132,Papiamento,0.00%,0
+133,Pashto,0.00%,0
+134,Patois,0.00%,0
+135,Pidgin English,0.00%,0
+136,Polish,0.00%,0
+137,Portug.creole,0.00%,0
+138,Portuguese,0.00%,0
+139,Pothwari,0.00%,0
+140,Pulaar,0.00%,0
+141,Punjabi,0.00%,0
+142,Putian,0.00%,0
+143,Quichua,0.00%,0
+144,Romanian,0.00%,0
+145,Russian,0.00%,0
+146,Samoan,0.00%,0
+147,Serbian,0.00%,0
+148,Shanghainese,0.00%,0
+149,Shona,0.00%,0
+150,Sichuan,0.00%,0
+151,Sicilian,0.00%,0
+152,Sinhalese,0.00%,0
+153,Slovak,0.00%,0
+154,Somali,0.00%,0
+155,Sorani,0.00%,0
+156,Spanish,17.65%,3
+157,Sudanese Arabic,0.00%,0
+158,Sundanese,0.00%,0
+159,Susu,0.00%,0
+160,Swahili,0.00%,0
+161,Swedish,0.00%,0
+162,Sylhetti,0.00%,0
+163,Tagalog,5.88%,1
+164,Taiwanese,0.00%,0
+165,Tajik,0.00%,0
+166,Tamil,0.00%,0
+167,Telugu,0.00%,0
+168,Thai,0.00%,0
+169,Tibetan,0.00%,0
+170,Tigre,0.00%,0
+171,Tigrinya,0.00%,0
+172,Toishanese,0.00%,0
+173,Tongan,0.00%,0
+174,Toucouleur,0.00%,0
+175,Trique,0.00%,0
+176,Tshiluba,0.00%,0
+177,Turkish,0.00%,0
+178,Twi,0.00%,0
+179,Ukrainian,0.00%,0
+180,Urdu,0.00%,0
+181,Uyghur,0.00%,0
+182,Uzbek,0.00%,0
+183,Vietnamese,5.88%,1
+184,Visayan,0.00%,0
+185,Welsh,0.00%,0
+186,Wolof,0.00%,0
+187,Yiddish,0.00%,0
+188,Yoruba,0.00%,0
+189,Yupik,0.00%,0
+,Total,100%,17
+
+Q19 - What is the third language that you speak fluently?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,What is the third language that you speak fluently?,42.00,156.00,92.67,46.57,2169.22,6
+
+#,Answer,%,Count
+1,Acholi,0.00%,0
+2,Afrikaans,0.00%,0
+3,Akan,0.00%,0
+4,Albanian,0.00%,0
+5,Amharic,0.00%,0
+6,Arabic,0.00%,0
+7,Ashante,0.00%,0
+8,Asl,0.00%,0
+9,Assyrian,0.00%,0
+10,Azerbaijani,0.00%,0
+11,Azeri,0.00%,0
+12,Bajuni,0.00%,0
+13,Basque,0.00%,0
+14,Behdini,0.00%,0
+15,Belorussian,0.00%,0
+16,Bengali,0.00%,0
+17,Berber,0.00%,0
+18,Bosnian,0.00%,0
+19,Bravanese,0.00%,0
+20,Bulgarian,0.00%,0
+21,Burmese,0.00%,0
+22,Cakchiquel,0.00%,0
+23,Cambodian,0.00%,0
+24,Cantonese,0.00%,0
+25,Catalan,0.00%,0
+26,Chaldean,0.00%,0
+27,Chamorro,0.00%,0
+28,Chao-chow,0.00%,0
+29,Chavacano,0.00%,0
+30,Chin,0.00%,0
+31,Chuukese,0.00%,0
+32,Cree,0.00%,0
+33,Croatian,0.00%,0
+34,Czech,0.00%,0
+35,Dakota,0.00%,0
+36,Danish,0.00%,0
+37,Dari,0.00%,0
+38,Dinka,0.00%,0
+39,Diula,0.00%,0
+40,Dutch,0.00%,0
+41,Edo,0.00%,0
+42,English,16.67%,1
+43,Estonian,0.00%,0
+44,Ewe,0.00%,0
+45,Fante,0.00%,0
+46,Farsi,0.00%,0
+47,Fijian Hindi,0.00%,0
+48,Finnish,0.00%,0
+49,Flemish,0.00%,0
+50,French,16.67%,1
+51,French Canadian,0.00%,0
+52,Fukienese,0.00%,0
+53,Fula,0.00%,0
+54,Fulani,0.00%,0
+55,Fuzhou,0.00%,0
+56,Ga,0.00%,0
+57,Gaddang,0.00%,0
+58,Gaelic,0.00%,0
+59,Gaelic-irish,0.00%,0
+60,Gaelic-scottish,0.00%,0
+61,Georgian,0.00%,0
+62,German,0.00%,0
+63,Gorani,0.00%,0
+64,Greek,0.00%,0
+65,Gujarati,0.00%,0
+66,Haitian Creole,0.00%,0
+67,Hakka,0.00%,0
+68,Hakka-chinese,0.00%,0
+69,Hausa,0.00%,0
+70,Hebrew,0.00%,0
+71,Hindi,16.67%,1
+72,Hmong,0.00%,0
+73,Hungarian,0.00%,0
+74,Ibanag,0.00%,0
+75,Ibo,0.00%,0
+76,Icelandic,0.00%,0
+77,Igbo,0.00%,0
+78,Ilocano,0.00%,0
+79,Indonesian,0.00%,0
+80,Inuktitut,0.00%,0
+81,Italian,16.67%,1
+82,Jakartanese,0.00%,0
+83,Japanese,0.00%,0
+84,Javanese,0.00%,0
+85,Kanjobal,0.00%,0
+86,Karen,0.00%,0
+87,Karenni,0.00%,0
+88,Kashmiri,0.00%,0
+89,Kazakh,0.00%,0
+90,Kikuyu,0.00%,0
+91,Kinyarwanda,0.00%,0
+92,Kirundi,0.00%,0
+93,Korean,0.00%,0
+94,Kosovan,0.00%,0
+95,Kotokoli,0.00%,0
+96,Krio,0.00%,0
+97,Kurdish,0.00%,0
+98,Kurmanji,0.00%,0
+99,Kyrgyz,0.00%,0
+100,Lakota,0.00%,0
+101,Laotian,0.00%,0
+102,Latvian,0.00%,0
+103,Lingala,0.00%,0
+104,Lithuanian,0.00%,0
+105,Luganda,0.00%,0
+106,Luo,0.00%,0
+107,Maay,0.00%,0
+108,Macedonian,0.00%,0
+109,Malay,0.00%,0
+110,Malayalam,0.00%,0
+111,Maltese,0.00%,0
+112,Mandarin,0.00%,0
+113,Mandingo,0.00%,0
+114,Mandinka,0.00%,0
+115,Marathi,0.00%,0
+116,Marshallese,0.00%,0
+117,Mien,0.00%,0
+118,Mina,0.00%,0
+119,Mirpuri,0.00%,0
+120,Mixteco,0.00%,0
+121,Moldavan,0.00%,0
+122,Mongolian,0.00%,0
+123,Montenegrin,0.00%,0
+124,Navajo,0.00%,0
+125,Neapolitan,0.00%,0
+126,Nepali,0.00%,0
+127,Nigerian Pidgin,0.00%,0
+128,Norwegian,0.00%,0
+129,Oromo,0.00%,0
+130,Pahari,0.00%,0
+131,Papago,0.00%,0
+132,Papiamento,0.00%,0
+133,Pashto,0.00%,0
+134,Patois,0.00%,0
+135,Pidgin English,0.00%,0
+136,Polish,0.00%,0
+137,Portug.creole,0.00%,0
+138,Portuguese,0.00%,0
+139,Pothwari,0.00%,0
+140,Pulaar,0.00%,0
+141,Punjabi,0.00%,0
+142,Putian,0.00%,0
+143,Quichua,0.00%,0
+144,Romanian,0.00%,0
+145,Russian,0.00%,0
+146,Samoan,0.00%,0
+147,Serbian,0.00%,0
+148,Shanghainese,0.00%,0
+149,Shona,0.00%,0
+150,Sichuan,0.00%,0
+151,Sicilian,0.00%,0
+152,Sinhalese,0.00%,0
+153,Slovak,0.00%,0
+154,Somali,0.00%,0
+155,Sorani,0.00%,0
+156,Spanish,33.33%,2
+157,Sudanese Arabic,0.00%,0
+158,Sundanese,0.00%,0
+159,Susu,0.00%,0
+160,Swahili,0.00%,0
+161,Swedish,0.00%,0
+162,Sylhetti,0.00%,0
+163,Tagalog,0.00%,0
+164,Taiwanese,0.00%,0
+165,Tajik,0.00%,0
+166,Tamil,0.00%,0
+167,Telugu,0.00%,0
+168,Thai,0.00%,0
+169,Tibetan,0.00%,0
+170,Tigre,0.00%,0
+171,Tigrinya,0.00%,0
+172,Toishanese,0.00%,0
+173,Tongan,0.00%,0
+174,Toucouleur,0.00%,0
+175,Trique,0.00%,0
+176,Tshiluba,0.00%,0
+177,Turkish,0.00%,0
+178,Twi,0.00%,0
+179,Ukrainian,0.00%,0
+180,Urdu,0.00%,0
+181,Uyghur,0.00%,0
+182,Uzbek,0.00%,0
+183,Vietnamese,0.00%,0
+184,Visayan,0.00%,0
+185,Welsh,0.00%,0
+186,Wolof,0.00%,0
+187,Yiddish,0.00%,0
+188,Yoruba,0.00%,0
+189,Yupik,0.00%,0
+,Total,100%,6
+
+Q20 - Are you a low-income student?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Are you a low-income student? - Selected Choice,1.00,4.00,1.98,0.47,0.22,41
+
+#,Answer,%,Count
+1,Yes,9.76%,4
+2,No,85.37%,35
+3,Prefer not to say,2.44%,1
+4,Other,2.44%,1
+,Total,100%,41
+
+Q20_4_TEXT - Other
+Other - Text
+Kinda
+
+Q21 - Are you a first generation college student? (i.e. first in your family to attend college)
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Are you a first generation college student? (i.e. first in your family to attend college) - Selected Choice,1.00,2.00,1.98,0.15,0.02,41
+
+#,Answer,%,Count
+1,Yes,2.44%,1
+2,No,97.56%,40
+3,Prefer not to say,0.00%,0
+4,Other,0.00%,0
+,Total,100%,41
+
+Q21_4_TEXT - Other
+Other - Text
+
+Q22 - Do you receive a work-study allocation in your financial aid package?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you receive a work-study allocation in your financial aid package?,1.00,5.00,2.95,1.29,1.66,41
+
+#,Answer,%,Count
+1,"Yes, Federal Work-Study",21.95%,9
+2,"Yes, Campus Job",17.07%,7
+3,No work allocation,7.32%,3
+4,Not on financial aid,51.22%,21
+5,Prefer not to say,2.44%,1
+,Total,100%,41
+
+Q23 - Do you have any jobs outside of Spectator?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Do you have any jobs outside of Spectator?,1.00,6.00,4.93,1.90,3.63,41
+
+#,Answer,%,Count
+1,"Yes, on campus",9.76%,4
+2,"Yes, off campus",14.63%,6
+6,No,75.61%,31
+4,Prefer not to say,0.00%,0
+,Total,100%,41
+
+Q24 - Are you employed by Spectator's Work Study Program?
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,Are you employed by Spectator's Work Study Program?,1.00,1.00,1.00,0.00,0.00,16
+
+#,Answer,%,Count
+1,Yes,100.00%,16
+3,No,0.00%,0
+,Total,100%,16
